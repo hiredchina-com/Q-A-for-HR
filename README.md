@@ -1,2 +1,3 @@
-# Q-A-for-HR
-Q&amp;A for HR
+# Q&A for HR
+
+[详情/Details](https://github.com/hiredchina-com/Q-A-for-HR/issues)
